@@ -1,0 +1,1 @@
+Git remote creates a connection (origin) that points back to the cloned repository. 
